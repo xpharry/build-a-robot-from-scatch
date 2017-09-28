@@ -2,13 +2,15 @@
 
 ![mybot](./mybot.jpg)
 
-## Instruction
+## Blog
 
 I have written a blog to describe the detailed procedures of making the robot from scratch, and below is the link
 
 [Making my own Autonomous Robot in ROS / Gazebo Day 1](http://www.cnblogs.com/casperwin/p/6258565.html)
 
-### Run the Models
+## Instruction
+
+#### Run the Models
 
 Load the Gazebo simulator in a terminal
 
